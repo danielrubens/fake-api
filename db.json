@@ -1,23 +1,23 @@
 {
     "users": [
       {
-        "nome": "joao",
-        "email": "exemple@exemple.com",
-        "permissao": "administrador",
+        "name": "joao",
+        "email": "example@example.com",
+        "permission": "administrador",
         "status": "ativo",
         "id": "1"
       },
       {
-        "nome": "joao",
-        "email": "exemple@exemple.com",
-        "permissao": "administrador",
+        "name": "joao",
+        "email": "example@example.com",
+        "permission": "administrador",
         "status": "ativo",
         "id": "2"
       },
       {
-        "nome": "joao",
-        "email": "exemple@exemple.com",
-        "permissao": "administrador",
+        "name": "joao",
+        "email": "example@example.com",
+        "permission": "administrador",
         "status": "ativo",
         "id": "3"
       }
